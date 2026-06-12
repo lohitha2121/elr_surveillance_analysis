@@ -6,30 +6,27 @@ This project demonstrates a simplified Electronic Laboratory Reporting (ELR) sur
 
 ```text
 data/
-  raw/                 
-  processed/           
+  raw/                            
 notebooks/             
 src/                   
 outputs/
   figures/             
-  tables/              
-main.py                
+  tables/                             
 requirements.txt       
 ```
 
 ## Workflow
 
-1. `src/generate_data.py` 
+1. `src/utils.py` 
 2. `src/preprocess.py` 
-3. `src/metrics.py` 
-4. `src/anomaly_detection.py` 
-5. `src/visualization.py` 
+3. `src/volume_analysis.py` 
+
+
 
 ## Run
 
 ```bash
 pip install -r requirements.txt
-python main.py
 ```
 
 ## Data Dictionary
