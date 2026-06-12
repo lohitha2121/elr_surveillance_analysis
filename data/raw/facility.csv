@@ -1,0 +1,6 @@
+facility_id,facility_name,clia_id,county,district
+F001,Northside Medical Center,11D0001111,Adams,North
+F002,Central County Hospital,22D0002222,Baker,North
+F003,Valley Diagnostic Lab,33D0003333,Clark,Central
+F004,Riverbend Clinic,44D0004444,Davis,Central
+F005,South Regional Hospital,55D0005555,Evans,South
